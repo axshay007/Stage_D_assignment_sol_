@@ -1,4 +1,0 @@
-import numpy as np
-import pandas as pd
-train_classes = pd.read_csv('../input/planets-dataset/planet/planet/train_classes.csv')
-train_classes.head()
